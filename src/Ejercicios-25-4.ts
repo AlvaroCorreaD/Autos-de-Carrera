@@ -1,0 +1,11 @@
+// let dato1 = document.getElementById("dato1");
+// let dato2 = document.getElementById("dato2");
+// let dato3 = document.getElementById("dato3");
+// let dato4 = document.getElementById("dato4");
+let vuelta1: number = 18;
+let vuelta2: number = 15;
+let vuelta3: number = 21;
+let vuelta4: number = 25;
+let tiempoTotal = vuelta1 + vuelta2 + vuelta3 + vuelta4;
+console.log("Tiempo Total:", tiempoTotal);
+console.log("Promedio de Vueltas:", tiempoTotal / 4);
